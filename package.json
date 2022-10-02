@@ -1,0 +1,9 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "Solana Wallet Example",
+  "main": "index.js",
+  "repository": "https://github.com/keithnoguchi/airdrop",
+  "author": "Keith Noguchi <hack@noguchi.us>",
+  "license": "MIT"
+}
